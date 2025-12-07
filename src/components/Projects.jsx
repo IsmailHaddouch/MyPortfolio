@@ -14,11 +14,20 @@ const projects = [
     },
 
      {
-        id:1 ,
-        title:"Gestion Consomables",
-        description: "application web qui gere la gestion de stock pour une etablissment",
-        image:"/Projects/GstCons3.PNG",
+        id:2 ,
+        title:"Plateforme de Gestion de Projet pour le Bâtiment et les Travaux Publics",
+        description: "Cette plateforme de gestion de projet est conçue pour répondre aux besoins des entreprises du secteur du BTP en fournissant une solution complète pour la planification, la gestion et l exécution de projets de construction,",
+        image:"/Projects/CaptureBTP.PNG",
         tags:["React","Laravel","MySQl"],
+        githubUrl:"#"
+
+    },
+       {
+        id:3 ,
+        title:"Gestion venntes",
+        description: "application web qui gere la gestion de vente d'encherir",
+        image:"/Projects/cptr3.PNG",
+        tags:["Java(SpringBoot)","Css","HTML","MySQl"],
         githubUrl:"#"
 
     }
